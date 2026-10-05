@@ -1,2 +1,2 @@
-\#BTK Sıfırdan İleri Seviye Python Programlama
+\# BTK Sıfırdan İleri Seviye Python Programlama
 
